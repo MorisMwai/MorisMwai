@@ -15,6 +15,12 @@
 
 <a href="https://twitter.com/moriss_em">Twitter <i class="fa fa-twitter"></i></a>
 
+
+<a href="https://www.linkedin.com/in/moris-m">Linkedin <i class="fa fa-linkedin"></i></a>
+
+ 
+
+
  
 
 
