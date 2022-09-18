@@ -1,16 +1,17 @@
 ### Hi there 👋
+### I'm Moris Mwai 
+A passionate software developer
 
-<!--
-**itsMoriss/itsMoriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently pursuing a bachelor of science degree in computer science 
+- 🌱 I’m currently learning Dart and Flutter as well as database programming using SQL
+<!--- 👯 I’m looking to collaborate on ...-->
+<!--- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about Python, Django and web development programming
+- 📫 How to reach me: mwaimoris@outlook.com
+<!--- 😄 Pronouns: ...-->
+<!--- ⚡ Fun fact: ...-->
+
