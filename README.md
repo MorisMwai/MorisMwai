@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Moris Mwai 
 ### A passionate software developer 
-### Connect with me
-<a href="https://twitter.com/moriss_em">Twitter <i class="fa fa-twitter"></i></a>
- 
 
 
 
@@ -14,4 +11,22 @@
 - 📫 How to reach me: mwaimoris@outlook.com
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
+### Connect with me
+
+<a href="https://twitter.com/moriss_em">Twitter <i class="fa fa-twitter"></i></a>
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
 
