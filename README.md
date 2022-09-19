@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Moris Mwai 
-### A passionate software developer 
+### An enthusiastic software developer 
 
 
 
