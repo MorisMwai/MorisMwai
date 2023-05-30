@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently pursuing a <b>Bachelor of science degree in Computer Science</b> 
-- 🌱 I’m currently learning <b>Dart and Flutter</b> as well as database programming using <b>SQL</b>
+- 🌱 I’m currently learning <b>Dart with Flutter</b> building beautiful, natively compiled, multi-platform applications from a single codebase.
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about <b>Python, Django and web development programming</b>
