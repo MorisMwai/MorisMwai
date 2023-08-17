@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoriss&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoriss" /> </p>
 
-- 🔭 I’m currently working on **personal projects.**
+- 🔭 I’m currently working on **personal projects and overall professional development.**
 
 - 🌱 I’m currently learning **.NET full-stack Development with C#.**
 
