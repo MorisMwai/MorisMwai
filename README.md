@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **personal projects and overall professional development.**
 
-- 🌱 I’m currently learning **.NET full-stack Development with C#.**
+- 🌱 I’m currently learning **.NET full-stack Development with C#** and **Robotic Process Automation with UiPath**
 
 - 💬 Ask me about **Python, JavaScript, TypeScript, ReactJS, Django and anything about web development.**
 
