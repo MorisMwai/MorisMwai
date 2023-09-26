@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moris Mwai</h1>
-<h3 align="center">An enthusiastic software developer</h3>
+<h3 align="center">A passionate software developer</h3>
 <img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoriss&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoriss" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET full-stack Development with C#** and **Robotic Process Automation with UiPath**
 
-- 💬 Ask me about **Python, JavaScript, TypeScript, ReactJS, Django and anything about web development.**
+- 💬 Ask me about **C#, Python, JavaScript, TypeScript, ReactJS, Django and anything about web development.**
 
 - 📫 How to reach me **mwaimoris@gmail.com**
 
