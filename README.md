@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET full-stack Development with C#** and **Robotic Process Automation with UiPath**
 
-- 💬 Ask me about **C#, Python, JavaScript, TypeScript, ReactJS, Django and anything about web development.**
+- 💬 Ask me about **C#, Python, JavaScript, RPA, ReactJS, Django and anything about web development.**
 
 - 📫 How to reach me **mwaimoris@gmail.com**
 
