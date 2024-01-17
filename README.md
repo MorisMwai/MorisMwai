@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET full-stack Development with C#, Angular** and deepening my expertise in **Robotic Process Automation with UiPath.**
 
-- 💬 Ask me about **JavaScript, Python, C#, ReactJS, RPA and anything related to web development.**
+- 💬 Ask me about **JavaScript, Python, C#, RPA and anything related to web development.**
 
 - Let's connect and collaborate! Feel free to reach out for discussions, insights, or just to say hello!
 
