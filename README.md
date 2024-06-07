@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moris Mwai</h1>
 <h3 align="center">A Passionate RPA Developer | Software Engineer </h3>
-<img align="right" width="400" style="border-radius: 5px;" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="RPA development">
 <!--<img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoriss&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoriss" /> </p>
@@ -24,11 +23,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg alt="uipath" width="40" height="40"">
+    <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg" alt="uipath" width="40" height="40">
   </a>
+  <a href="https://logowik.com/ui-path-logo-vector-svg-pdf-ai-eps-cdr-free-download-14931.html"><img src="https://logowik.com/content/uploads/images/ui-path7967.jpg"></a>
   <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,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" alt="power automate" width="40" height="40">
-  </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Power_Automate_logo.svg" alt="power automate" width="40" height="40"/> 
+</a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> 
   </a> 
