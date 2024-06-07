@@ -23,8 +23,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uipath/uipath-original.svg" alt="UiPath" width="40" height="40"/> </a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft-power-automate/microsoft-power-automate-original.svg" alt="Power Automate" width="40" height="40"/> </a>
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UiPath_2019_logo.svg/768px-UiPath_2019_logo.svg.png" alt="uipath" width="40" height="40"/> 
+  </a> 
+  <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Power_Automate_logo.svg" alt="power automate" width="40" height="40"/> 
+  </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> 
   </a> 
