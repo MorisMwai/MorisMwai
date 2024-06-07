@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moris Mwai</h1>
 <h3 align="center">A Passionate RPA Developer | Software Engineer </h3>
-<img align="right" width="400" style="border-radius: 5px;" src="https://media.giphy.com/media/QsT87Yv6XB4xyFvCy8/giphy.gif" alt="RPA development">
+<img align="right" width="400" border-radius="5px" src="https://cdn.dribbble.com/users/438587/screenshots/4023906/rpa_automation_0.gif" alt="RPA development process">
 <!--<img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoriss&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoriss" /> </p>
@@ -23,12 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/81/UiPath_2019_logo.svg" alt="uipath" width="40" height="40"/> 
-  </a> 
-  <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Power_Automate_logo.svg" alt="power automate" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uipath/uipath-original.svg" alt="UiPath" width="40" height="40"/> </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft-power-automate/microsoft-power-automate-original.svg" alt="Power Automate" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> 
   </a> 
