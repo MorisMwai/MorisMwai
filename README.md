@@ -25,10 +25,9 @@
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/ui-path7967.jpg" alt="uipath" width="40" height="40">
   </a>
-  <a href="https://logowik.com/ui-path-logo-vector-svg-pdf-ai-eps-cdr-free-download-14931.html"><img src="https://logowik.com/content/uploads/images/ui-path7967.jpg"></a>
   <a href="https://flow.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Power_Automate_logo.svg" alt="power automate" width="40" height="40"/> 
-</a>
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/> 
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> 
   </a> 
