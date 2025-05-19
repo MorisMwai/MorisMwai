@@ -72,13 +72,13 @@
   </a> 
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmoriss&show_icons=true&locale=en&layout=compact" alt="itsmoriss" /></p>-->
-
 <p><img align="left" src="https://api.githubtrends.io/user/svg/MorisMwai/langs?time_range=one_year&compact=True&theme=dark" alt="MorisMwai"</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MorisMwai&theme=gotham&show_icons=true&locale=en" alt="MorisMwai" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmoriss&" alt="itsmoriss" /></p>-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MorisMwai&theme=gotham&show_icons=true&locale=en&layout=compact" alt="MorisMwai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MorisMwai&" alt="MorisMwai" /></p>
 
  
 
