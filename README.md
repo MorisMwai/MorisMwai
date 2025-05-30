@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation**
 
-- 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate.**
+- 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate** as well as **Power BI and Power Apps integrations with Power Automate.**
 
 - 💬 Ask me about **JavaScript/TypeScript, Python, C#, RPA and anything related to web development.**
 
