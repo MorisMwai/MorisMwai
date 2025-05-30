@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate** as well as **Power BI and Power Apps integrations with Power Automate.**
 
-- 💬 Ask me about **JavaScript/TypeScript, Python, C#, RPA and anything related to web development.**
+- 💬 Ask me about **JavaScript/TypeScript, Python, C#, RPA, Power BI, Power Apps, and anything related to modern web development.**
 
 - Let's connect and collaborate! Feel free to reach out for discussions, insights, or to say hello!
 
