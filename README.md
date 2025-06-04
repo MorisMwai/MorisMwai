@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moris Mwai</h1>
+<h1 align="center">Hi 👋, I'm Moris</h1>
 <h3 align="center">A Passionate RPA Developer | Software Engineer </h3>
 <!--<img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">-->
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation**
 
-- 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate** as well as **Power BI and Power Apps integrations with Power Automate.**
+- 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate** as well as demystifying the nuances of **Power BI/Power Apps integrations with Power Automate.**
 
 - 💬 Ask me about **JavaScript/TypeScript, Python, C#, RPA, Power BI, Power Apps, and anything related to modern web development.**
 
