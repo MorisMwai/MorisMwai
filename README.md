@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate RPA Developer | Software Engineer </h3>
 <!--<img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorisMwai&label=Profile%20views&color=0e75b6&style=flat" alt="MorisMwai" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorisMwai&label=Profile%20views&color=0e75b6&style=flat" alt="MorisMwai" /> </p>-->
 
 - 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation**
 
