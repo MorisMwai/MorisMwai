@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorisMwai&label=Profile%20views&color=0e75b6&style=flat" alt="MorisMwai" /> </p>-->
 
-- 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation**
+- 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation, Cloud & Data**
 
 - 🌱 I’m currently learning **Agentic and AI-Driven Automation** , and deepening my expertise in **UiPath and Micrososft Power Platform** as well as demystifying the nuances of **Power BI/Power Apps integrations with automation workflows.**
 
