@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Moris</h1>
-<h3 align="center">A Passionate RPA Developer | Software Engineer </h3>
+<h3 align="center">Automation Engineer | RPA Specialist </h3>
 <!--<img align="right" width="400" border-radius="5px" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="moris mwai">-->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorisMwai&label=Profile%20views&color=0e75b6&style=flat" alt="MorisMwai" /> </p>-->
 
 - 🔭 I’m currently **Exploring exciting projects in the realm of Robotic Process Automation**
 
-- 🌱 I’m currently learning **.NET Full Stack Development, AngularJS, Next.js** , and deepening my expertise in **Robotic Process Automation with UiPath and Power Automate** as well as demystifying the nuances of **Power BI/Power Apps integrations with Power Automate.**
+- 🌱 I’m currently learning **Agentic and AI-Driven Automation** , and deepening my expertise in **UiPath and Micrososft Power Platform** as well as demystifying the nuances of **Power BI/Power Apps integrations with automation workflows.**
 
-- 💬 Ask me about **JavaScript/TypeScript, Python, C#, RPA, Power BI, Power Apps, and anything related to modern web development.**
+- 💬 Ask me about **RPA, UiPath, Power Automate, Power BI, Power Apps, Dataverse, JavaScript/TypeScript, Python, C#, .NET,  and anything related to data & cloud solutions.**
 
 - Let's connect and collaborate! Feel free to reach out for discussions, insights, or to say hello!
 
